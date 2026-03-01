@@ -1,38 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:39FF14,100:000000&height=200&section=header&text=AAYUSH%20RANJITKAR&fontSize=44&fontColor=39FF14&fontAlignY=50&desc=%3E%20Wizard%20of%20Semicolons%20%7C%20Nepal%20🇳🇵&descAlignY=70&descSize=16&animation=blinking" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,30:FFE66D,60:4ECDC4,100:45B7D1&height=220&section=header&text=✨%20AAYUSH%20RANJITKAR%20✨&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=AayushR-07%20•%20he%2Fhim%20•%20Nepal%20🇳🇵&descAlignY=68&descSize=17&animation=twinkling" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=1500&pause=600&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=%3E+initializing+profile...;%3E+loading+skills...+%5BDONE%5D;%3E+python+%26+django+%5BACTIVE%5D;%3E+date_tracker.py+%5BRUNNING%5D;%3E+grocery_bud.js+%5BRUNNING%5D;%3E+welcome+to+my+profile+%5BOK%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=550&lines=🐍+Python+Wizard;🌐+Django+Developer;🗓️+Date+Tracker+Obsessed;🛒+Grocery+App+Builder;🚀+Always+Building+Something)](https://git.io/typing-svg)
 
 </div>
 
 ---
+
+<table>
+<tr>
+<td width="55%">
+
+## 🧙‍♂️ About The Wizard
+
+```yaml
+Name     : Aayush Ranjitkar
+Handle   : AayushR-07
+From     : Nepal 🇳🇵
+Pronouns : he/him
+Email    : aayushranjitkar120@gmail.com
+
+Currently : Building Date Tracker Pro
+Learning  : Advanced Django & APIs
+Hobbies   : Coding, side projects,
+            breaking things & fixing them
+
+Motto     : "Print until it works 🔥"
+```
+
+</td>
+<td width="45%">
+
+## 🌟 What I Do
+
+🗓️ I build **Date Trackers** that keep life organized
+
+🌐 I craft **Django apps** for the web
+
+🛒 I made **Grocery Bud** so shopping is easy
+
+🐍 **Python** is my weapon of choice
+
+🌱 I'm always learning, always shipping
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 My Favorite Projects
 
 <div align="center">
 
 ```
-██████████████████████████████████████████████████████
-█                                                    █
-█   > NAME     :  Aayush Ranjitkar                  █
-█   > USERNAME :  AayushR-07                        █
-█   > LOCATION :  Nepal 🇳🇵                         █
-█   > PRONOUNS :  he/him                            █
-█   > EMAIL    :  aayushranjitkar120@gmail.com      █
-█   > STATUS   :  Building cool stuff 🚀            █
-█   > FUN_FACT :  print() is my debugger 🔥         █
-█                                                    █
-██████████████████████████████████████████████████████
+╔══════════════════════════════════════════════════════════════╗
+║  🗓️  DATE TRACKER        — Track important dates with ease   ║
+║  🗓️  DATE TRACKER PRO    — Pro version with extra features   ║
+║  🌐  DJANGO PROJECTS     — Full-stack web app collection     ║
+║  🛒  GROCERY BUD         — Never forget your groceries       ║
+╚══════════════════════════════════════════════════════════════╝
 ```
+
+[![Date Tracker](https://img.shields.io/badge/🗓️%20Date%20Tracker-View%20Repo-FF6B6B?style=for-the-badge)](https://github.com/AayushR-07/my-date-tracker)
+[![Date Tracker Pro](https://img.shields.io/badge/🗓️%20Date%20Tracker%20Pro-View%20Repo-FFE66D?style=for-the-badge&labelColor=333)](https://github.com/AayushR-07/my-datetrack-pro)
+[![Django Projects](https://img.shields.io/badge/🌐%20Django%20Projects-View%20Repo-4ECDC4?style=for-the-badge&labelColor=333)](https://github.com/AayushR-07/Book-Store_Django)
+[![Grocery Bud](https://img.shields.io/badge/🛒%20Grocery%20Bud-View%20Repo-45B7D1?style=for-the-badge&labelColor=333)](https://github.com/AayushR-07/Grocery-Bud)
 
 </div>
 
 ---
 
-## 💻 `~/skills --list`
+## 🛠️ My Tech Stack
 
 <div align="center">
 
@@ -42,64 +86,30 @@
 
 ---
 
-## 📁 `~/projects --favorites`
+## 📊 The Numbers
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AayushR-07&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF6B6B&icon_color=FFE66D&text_color=ffffff&ring_color=4ECDC4" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushR-07&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF6B6B&text_color=ffffff" height="175"/>
+</div>
 
-| `$` | Project | Info | Stack |
-|:---:|:--------|:-----|:-----:|
-| `01` | **[Date Tracker](https://github.com/AayushR-07)** | Track every important date 🗓️ | Python |
-| `02` | **[Date Tracker Pro](https://github.com/AayushR-07)** | The pro upgrade 🗓️⚡ | Python |
-| `03` | **[Django Projects](https://github.com/AayushR-07)** | Full-stack web apps 🌐 | Python · Django |
-| `04` | **[Grocery Bud](https://github.com/AayushR-07/Grocery-Bud)** | Smart grocery lists 🛒 | JavaScript |
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AayushR-07&theme=radical&hide_border=true&background=0d0d0d&ring=FF6B6B&fire=FFE66D&currStreakLabel=4ECDC4" width="50%"/>
 </div>
 
 ---
 
-## 📊 `~/stats --show`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AayushR-07&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=ffffff" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushR-07&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=ffffff" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AayushR-07&theme=chartreuse-dark&hide_border=true&background=000000&ring=39FF14&fire=00ff88&currStreakLabel=39FF14" width="50%"/>
-</div>
-
----
-
-## 🎮 Tetris Clearing My Contributions
+## 📡 Let's Connect!
 
 <div align="center">
 
-[![Tetris Contribution Graph](https://github.com/AayushR-07/AayushR-07/blob/output/tetris.svg)](https://github.com/AayushR-07)
+[![Instagram](https://img.shields.io/badge/Instagram-@aayush__ranjitkar-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=833AB4)](https://www.instagram.com/aayush_ranjitkar?igsh=MWw5cjYwdG9la3lpMg==)
 
-> 💡 *To enable Tetris animation, add this step to your `snake.yml` GitHub Action:*
->
-> ```yaml
-> - uses: Platane/snk@v3
->   with:
->     github_user_name: AayushR-07
->     outputs: |
->       dist/tetris.svg?outputType=tetris
->   env:
->     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
+[![Facebook](https://img.shields.io/badge/Facebook-Aayush%20Ranjitkar-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BFztNhoMs/)
 
-</div>
+[![Gmail](https://img.shields.io/badge/Email-aayushranjitkar120@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushranjitkar120@gmail.com)
 
----
-
-## 📡 `~/connect --social`
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-@aayush__ranjitkar-39FF14?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://www.instagram.com/aayush_ranjitkar?igsh=MWw5cjYwdG9la3lpMg==)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-Aayush%20Ranjitkar-39FF14?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000)](https://www.facebook.com/share/1BFztNhoMs/)
-[![Gmail](https://img.shields.io/badge/GMAIL-aayushranjitkar120-39FF14?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:aayushranjitkar120@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-AayushR--07-39FF14?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/AayushR-07)
+[![GitHub](https://img.shields.io/badge/GitHub-AayushR--07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AayushR-07)
 
 </div>
 
@@ -107,12 +117,10 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AayushR-07&color=39FF14&style=for-the-badge&label=VISITORS)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-```
-> Thank you for visiting. Keep building. Keep shipping. 🚀_
-```
+![Profile Views](https://komarev.com/ghpvc/?username=AayushR-07&color=FF6B6B&style=for-the-badge&label=WIZARDS+VISITED)
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:39FF14,100:000000&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:45B7D1,50:4ECDC4,100:FF6B6B&height=100&section=footer" width="100%"/>
 
 </div>
