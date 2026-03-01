@@ -67,9 +67,9 @@ Motto     : "Print until it works 🔥"
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-[![Date Tracker](https://img.shields.io/badge/🗓️%20Date%20Tracker-View%20Repo-FF6B6B?style=for-the-badge)](https://github.com/AayushR-07)
-[![Date Tracker Pro](https://img.shields.io/badge/🗓️%20Date%20Tracker%20Pro-View%20Repo-FFE66D?style=for-the-badge&labelColor=333)](https://github.com/AayushR-07)
-[![Django Projects](https://img.shields.io/badge/🌐%20Django%20Projects-View%20Repo-4ECDC4?style=for-the-badge&labelColor=333)](https://github.com/AayushR-07)
+[![Date Tracker](https://img.shields.io/badge/🗓️%20Date%20Tracker-View%20Repo-FF6B6B?style=for-the-badge)](https://github.com/AayushR-07/my-date-tracker)
+[![Date Tracker Pro](https://img.shields.io/badge/🗓️%20Date%20Tracker%20Pro-View%20Repo-FFE66D?style=for-the-badge&labelColor=333)](https://github.com/AayushR-07/my-datetrack-pro)
+[![Django Projects](https://img.shields.io/badge/🌐%20Django%20Projects-View%20Repo-4ECDC4?style=for-the-badge&labelColor=333)](https://github.com/AayushR-07/Book-Store_Django)
 [![Grocery Bud](https://img.shields.io/badge/🛒%20Grocery%20Bud-View%20Repo-45B7D1?style=for-the-badge&labelColor=333)](https://github.com/AayushR-07/Grocery-Bud)
 
 </div>
