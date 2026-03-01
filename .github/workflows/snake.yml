@@ -24,10 +24,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
-**5.** Commit it → then go to **Actions tab** → click **"Generate Snake Animation"** → **"Run workflow"**
-
-After it runs, the snake will live at:
-```
-https://raw.githubusercontent.com/AayushR-07/AayushR-07/output/github-contribution-grid-snake-dark.svg
