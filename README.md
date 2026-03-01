@@ -1,4 +1,4 @@
-![Banner](./YouTube Banner - Aayush Ranjitkar  Full stack developer.png)
+
 
 <div align="center">
 
