@@ -8,7 +8,7 @@
 
 ### 🧙 About Me
 
-- 🔭 Currently building **Task Manager**, **Grocery Bud** & more
+- 🔭 Currently building **Date Tracker**, **Grocery Bud** & more
 - 🌱 Learning full-stack development with Python & JS
 - 📍 Based in Nepal
 - 📫 Reach me at **aayushranjitkar120@gmail.com**
