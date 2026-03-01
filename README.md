@@ -1,90 +1,98 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00D9FF,100:7B2FBE&height=200&section=header&text=Aayush%20Ranjitkar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Wizard%20of%20Semicolons%20%26%20Side%20Projects%20🧙&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=🐍+Python+%26+Django+Developer;🌐+JavaScript+Enthusiast;🗓️+Builder+of+Date+Trackers;☕+Fueled+by+Code+%26+Curiosity)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:16213e&height=180&section=header&text=Aayush%20Ranjitkar&fontColor=e94560&fontSize=48&fontAlignY=70&rotate=-3&desc=Full%20Stack%20Developer%20•%20Nepal&descAlignY=85&descSize=16&descAlign=62" width="100%"/>
 
 </div>
 
 <br>
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+
+### 👋 Hey there! I'm **Aayush**
+
+🔭 I build things with **Python, Django & JavaScript**
+
+🌱 Currently exploring **full-stack development**
+
+🗓️ Obsessed with building **Date Tracker** apps
+
+📍 Coding from **Nepal 🇳🇵**
+
+📫 **aayushranjitkar120@gmail.com**
+
+⚡ Fun fact: **My best debugger is `print()`**
+
+<br clear="both"/>
+
 ---
 
-## ⚡ `whoami`
-
-```python
-class Aayush:
-    name       = "Aayush Ranjitkar"
-    username   = "AayushR-07"
-    pronouns   = "he/him"
-    location   = "Nepal 🇳🇵"
-    email      = "aayushranjitkar120@gmail.com"
-    passion    = ["Building cool stuff", "Learning every day", "Writing clean code"]
-    current    = "Crafting web apps with Python & JavaScript"
-    fun_fact   = "I use print() to debug and I'm proud of it 🔥"
-```
-
----
-
-## 🛠️ Tech Arsenal
+### 🧰 Technologies & Tools
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,javascript,django,html,css,git,github,vscode&theme=dark)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### 📌 Projects I'm Proud Of
 
 <div align="center">
 
-| 🗓️ Project | 📝 Description | 🔧 Tech |
-|:---:|:---:|:---:|
-| [**Date Tracker**](https://github.com/AayushR-07) | Track important dates & never miss a moment | Python |
-| [**Date Tracker Pro**](https://github.com/AayushR-07) | Advanced date tracking with pro features | Python |
-| [**Django Projects**](https://github.com/AayushR-07) | Full stack web apps powered by Django | Python · Django |
-| [**Grocery Bud**](https://github.com/AayushR-07/Grocery-Bud) | Smart grocery list management app | JavaScript |
+<a href="https://github.com/AayushR-07">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AayushR-07&repo=Grocery-Bud&theme=jolly&hide_border=true" />
+</a>
+<a href="https://github.com/AayushR-07">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AayushR-07&repo=Book-Store_Django&theme=jolly&hide_border=true" />
+</a>
+
+</div>
+
+> 🗓️ **Date Tracker** — Never miss an important date again. Smart tracking built with Python.
+>
+> 🗓️ **Date Tracker Pro** — The upgraded experience. More features, more power.
+>
+> 🌐 **Django Projects** — A collection of full-stack projects powered by Django.
+
+---
+
+### 📈 My GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AayushR-07&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AayushR-07&show_icons=true&theme=jolly&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=AayushR-07&theme=jolly&hide_border=true" height="160"/>
+</div>
+
+---
+
+### 🌐 Find Me Online
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/@aayush__ranjitkar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aayush_ranjitkar?igsh=MWw5cjYwdG9la3lpMg==)
+[![Facebook](https://img.shields.io/badge/Aayush%20Ranjitkar-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BFztNhoMs/)
+[![Gmail](https://img.shields.io/badge/aayushranjitkar120-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushranjitkar120@gmail.com)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AayushR-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushR-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AayushR-07&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=7B2FBE&currStreakLabel=00D9FF" width="49%"/>
-</div>
-
----
-
-## 🌐 Connect With Me
-
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aayush_ranjitkar?igsh=MWw5cjYwdG9la3lpMg==)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1BFztNhoMs/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushranjitkar120@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AayushR-07)
+*"First, solve the problem. Then, write the code."*
 
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=AayushR-07&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00D9FF,100:0D0D0D&height=100&section=footer" width="100%"/>
+![Visitor Count](https://komarev.com/ghpvc/?username=AayushR-07&color=e94560&style=flat-square)
 
 </div>
