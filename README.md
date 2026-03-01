@@ -89,8 +89,8 @@ Motto     : "Print until it works 🔥"
 ## 📊 The Numbers
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AayushR-07&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF6B6B&icon_color=FFE66D&text_color=ffffff&ring_color=4ECDC4" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushR-07&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF6B6B&text_color=ffffff" height="175"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AayushR-07&theme=radical" height="175"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AayushR-07&theme=radical" height="175"/>
 </div>
 
 <div align="center">
