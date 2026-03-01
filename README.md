@@ -1,3 +1,5 @@
+![Banner](./YouTube Banner - Aayush Ranjitkar  Full stack developer.png)
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Aayush+%F0%9F%91%8B;Wizard+of+Semicolons+%26+Side+Projects+%F0%9F%A7%99;Python+%7C+JavaScript+%7C+Django+Dev)](https://git.io/typing-svg)
